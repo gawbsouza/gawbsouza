@@ -1,16 +1,15 @@
-### Hi there 👋
+### Olá, me chamo Gabriel Souza 👋
 
-<!--
-**gawbsouza/gawbsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente sou estudante de Engenharia de Software na [42 São Paulo](https://www.42sp.org.br "42 São Paulo") e tenho me dedicado integralmente a essa jornada.
 
-Here are some ideas to get you started:
+Meu Github ainda está ~~bagunçado~~ em "desenvolvimento" por isso as coisas por aqui vão estar sempre mudando, por hora tudo ainda está provisório. 😁
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Atenção**:  
+Os projetos atuais são destinados a estudo, assim que estivem prontos para "produção" eles estarão devidamente documentados e organizados. Fique a vontade e dê uma olhada por ai!
+
+Links para nos conectarmos:  
+- [Linkedin](https://www.linkedin.com/in/gawbsouza/ "Linkedin")  
+- Blog (em breve)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gawbsouza&theme=default&show_icons=true&layout=compact&locale=pt-br)  
+![Resumo](https://github-readme-stats.vercel.app/api/top-langs/?username=gawbsouza&theme=default&locale=pt-br&layout=compact)
